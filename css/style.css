@@ -118,7 +118,7 @@ h5,
 }
 
 #bodyFirst {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  font-family: 'Mono Lisa', 'Arial Narrow';
   font-weight: 400;
   font-size: 16px;
   font-style: normal;
@@ -141,8 +141,8 @@ hr {
   font-family: Arial;
 }
 
-.containerFranklin {
-  font-family: 'Franklin Gothic Medium';
+.containerMonoLisa {
+  font-family: 'Mono Lisa';
 }
 
 .containerTwoFonts {
